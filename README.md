@@ -1,4 +1,4 @@
-# 👩‍💻 Sadia Usman Bodla | Data Scientist
+# 👩‍💻 Sadia Usman Bodla | ML/AI ENGINEER
 
 Welcome to my GitHub! I'm **Sadia Usman Bodla**, a passionate Data Scientist who loves transforming raw data into meaningful insights and impactful solutions. With a strong foundation in machine learning, statistics, and data visualization, I specialize in building models that solve real-world problems.
 
